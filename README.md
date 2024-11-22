@@ -53,10 +53,10 @@ A secure web application with best practices implemented for authentication and 
 ## 🚀 Get in Touch  
 I'm always excited to connect with fellow enthusiasts and collaborate on projects!  
 - **HackerOne:** [Ciph_e_r](https://hackerone.com/ciph_e_r)  
-- **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)  
-- **Email:** your.email@example.com  
-- **GitHub:** [yourusername](https://github.com/yourusername)  
+- **Email:** talon075484@gmail.com
+- **GitHub:** [yourusername](https://github.com/cipher131)
+- **Discord** ciph_e_r
 
 ---
 
-**"The best way to predict the future is to invent it." – Alan Kay**  
+
