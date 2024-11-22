@@ -1,4 +1,4 @@
-# 👨‍💻 Welcome to My GitHub!  
+# 👾 Welcome to my github!  👾
 
 ![Cybersecurity Badge](https://img.shields.io/badge/Cybersecurity-Expert-blue)
 ![Penetration Testing Badge](https://img.shields.io/badge/Penetration%20Testing-Professional-important)
@@ -14,7 +14,9 @@ Hello! I'm a passionate **cybersecurity enthusiast** and **penetration tester**.
 - **Cybersecurity & Information Security**  
   - Vulnerability Assessment & Penetration Testing (VAPT)  
   - Web Application Security (OWASP Top 10, SANS 25)  
-  - Secure Coding Practices  
+  - Secure Coding Practices
+  - Bug Bounty
+  - Radio Frequency Attack Drone Jamming
 
 - **Programming Languages**  
   - 🐍 Python: Scripting, Automation, and Security Tool Development  
@@ -24,23 +26,9 @@ Hello! I'm a passionate **cybersecurity enthusiast** and **penetration tester**.
 
 ## 🔧 Tools & Technologies  
 Here are some tools and frameworks I frequently use in my work:  
-- **Security Tools:** Burp Suite, Metasploit, Wireshark, Nmap  
+- **Security Tools:** Burp Suite, Metasploit, Wireshark, Nmap, phpsploit  
 - **Frameworks:** Flask, Django (Python), Node.js (JavaScript)  
 - **Development Tools:** Docker, Git, VS Code  
-
----
-
-## 🏆 Featured Projects  
-Here are a few projects that highlight my expertise:  
-
-### [🔐 Vulnerability Scanner](https://github.com/yourusername/vulnerability-scanner)  
-A Python-based scanner that detects common vulnerabilities in web applications.  
-
-### [📊 Penetration Testing Report Template](https://github.com/yourusername/pentest-report-template)  
-A professional, customizable reporting template for penetration testers.  
-
-### [🌐 Secure Flask Application](https://github.com/yourusername/secure-flask-app)  
-A secure web application with best practices implemented for authentication and data protection.  
 
 ---
 
