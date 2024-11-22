@@ -55,7 +55,7 @@ I'm always excited to connect with fellow enthusiasts and collaborate on project
 - **HackerOne:** [Ciph_e_r](https://hackerone.com/ciph_e_r)  
 - **Email:** talon075484@gmail.com
 - **GitHub:** [yourusername](https://github.com/cipher131)
-- **Discord** ciph_e_r
+- **Discord:** ciph_e_r
 
 ---
 
